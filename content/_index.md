@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: DRTYBB
-      text: Lifestyle Brand for X-ennial ADHDers and friends
+      text: Creative Development. Service Excellence. Dirty Babies.
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
