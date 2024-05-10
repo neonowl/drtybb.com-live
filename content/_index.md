@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl.website
-      text: 🧱 built with HugoBlox  🧱
+      title: DRTYBB
+      text: Lifestyle Brand for X-ennial ADHDers and friends
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
