@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: DRTYBB
-      text: Creative Development. Service Excellence. Dirty Babies.
+      text: Product Management. Creative Development. Digital Design.
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -20,10 +20,10 @@ sections:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Powered by"
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: "HugoBlox"
+          url: "https://hugoblox.com/?utm_campaign=poweredby"
     design:
       spacing:
         padding: [0, 0, 0, 0]

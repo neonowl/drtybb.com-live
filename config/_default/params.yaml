@@ -11,11 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Product management, brand development, and digital design services catering to X-ennial ADHDers.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
