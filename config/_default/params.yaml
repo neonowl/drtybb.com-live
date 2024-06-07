@@ -33,12 +33,12 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "DRTYBB"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.gif"
     button:
       enable: true
-      text: "Get Started"
+      text: "HugoBlox Templates"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
