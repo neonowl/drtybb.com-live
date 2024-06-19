@@ -33,13 +33,13 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "LLC"
       # Logo filename in `assets/media/` folder
       filename: "logo.gif"
     button:
       enable: true
-      text: "HugoBlox Templates"
-      url: "https://hugoblox.com/templates/"
+      text: "Hire Us"
+      url: "/#contact"
     show_search: true
     show_theme_chooser: true
 

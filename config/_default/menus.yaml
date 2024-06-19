@@ -6,11 +6,11 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About
+  - name: About Us
     url: /#about
     weight: 20
-  - name: Mailing List
-    url: /#signup
+  - name: Contact Us
+    url: /#contact
     weight: 30
   - name: Resources
     weight: 40
