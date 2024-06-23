@@ -16,11 +16,7 @@ marketing:
     org_name: ''
     description: 'Product management, brand development, and digital design services catering to X-ennial ADHDers.'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: 'G-NB3MY0JC27'
   verification:
     google: ''
     baidu: ''
