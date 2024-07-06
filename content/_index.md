@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: DRTYBB
+      title: DRTYBB LLC
       text: Product Management. Creative Development. Digital Design.
       primary_action:
         text: Contact Us
@@ -51,4 +51,20 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
+  - block: cta-card
+    content:
+      title: DRTYBB LLC is an organization founded in the name of helping people tame the menace of emotional dysregulation described in the quote above.
+      text: You can't tame what you don't understand...
+      button:
+        text: Read Your Brain's Not Broken by Dr. Tamara Rosier, PhD
+        url: https://www.amazon.com/Your-Brains-Not-Broken-Strategies/dp/0800739426
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+  - block: markdown
+    content:
+      title: notice
+      text: I am not affiliated with the book author or publisher. I am someone who has been helped by the book, and if you relate to Melanie's story above then I urge you to pick up a copy of this excellent book.
 ---
