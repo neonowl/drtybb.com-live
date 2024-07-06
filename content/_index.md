@@ -57,7 +57,7 @@ sections:
       text: You can't tame what you don't understand...
       button:
         text: Read Your Brain's Not Broken by Dr. Tamara Rosier, PhD
-        url: https://www.amazon.com/Your-Brains-Not-Broken-Strategies/dp/0800739426
+        url: https://amzn.to/4eORwq1
     design:
       card:
         # Card background color (CSS class)
@@ -66,5 +66,5 @@ sections:
   - block: markdown
     content:
       title: notice
-      text: I am not affiliated with the book author or publisher. I am someone who has been helped by the book, and if you relate to Melanie's story above then I urge you to pick up a copy of this excellent book.
+      text: I am an Amazon Associate and I am someone who has been helped by the book. If you relate to Melanie's story above then I think you'll benefit from reading it. The link above is an Amazon Associate link.
 ---
