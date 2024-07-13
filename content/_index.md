@@ -66,5 +66,5 @@ sections:
   - block: markdown
     content:
       title: notice
-      text: I am an Amazon Associate and I am someone who has been helped by the book. If you relate to Melanie's story above then I think you'll benefit from reading it. The link above is an Amazon Associate link.
+      text: I am an Amazon Associate and I am someone who has been greatly helped by this book. If you relate to Melanie's story above then I think you'll benefit from reading it. The link above is an Amazon Associate link.
 ---
