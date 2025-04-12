@@ -14,7 +14,7 @@ marketing:
     site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'Product management, brand development, and digital design services catering to X-ennial ADHDers.'
+    description: 'Product management, brand development, and holistic design services for Neurodivergent Xennials.'
   analytics:
     google_analytics: 'G-NB3MY0JC27'
   verification:
@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024 DRTYBB LLC'
+    notice: '© 2024-2025 DRTYBB LLC'
 
 # Localization
 locale:

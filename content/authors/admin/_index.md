@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: General Manager
+role: Owner and General Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.drtybb.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Technical problem-solver and creative media expert with a passion for empowering users through technology.
+bio: Technical problem-solver and creative media expert with a passion for STEM Edu-tainment.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jerm@neonowl.net'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/jcvd.msse
+    url: https://www.instagram.com/djjermyjerm 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jeremy-chandler-van-doren-8183a9211/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`

@@ -40,7 +40,7 @@ sections:
   - block: testimonials
     content:
       title: "The DRTYBB LLC Story"
-      text: "Jeremy Chandler Van Doren, the owner/operator of DRTYBB LLC, was inspired by this seemingly innocuous passage from one of his favorite non-fiction books:"
+      text: "Jeremy Chandler Van Doren, the owner/operator and general manager of DRTYBB LLC, was inspired by a seemingly innocuous passage from one of his favorite non-fiction books on adult ADHD. The rest is history (or will be in good time)!"
       items:
         - name: "Dr. Tamara Rosier PhD"
           role: "Your Brain's Not Broken"
