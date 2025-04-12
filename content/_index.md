@@ -39,8 +39,8 @@ sections:
             brightness: 0.5
   - block: testimonials
     content:
-      title: ""
-      text: ""
+      title: "The DRTYBB LLC Story"
+      text: "Jeremy Chandler Van Doren, the owner/operator of DRTYBB LLC, was inspired by this seemingly innocuous passage from one of his favorite non-fiction books:"
       items:
         - name: "Dr. Tamara Rosier PhD"
           role: "Your Brain's Not Broken"
@@ -51,20 +51,4 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: DRTYBB LLC is an organization founded in the name of helping people tame the menace of emotional dysregulation described in the quote above.
-      text: You can't tame what you don't understand...
-      button:
-        text: Read Your Brain's Not Broken by Dr. Tamara Rosier, PhD
-        url: https://amzn.to/4eORwq1
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
-  - block: markdown
-    content:
-      title: notice
-      text: I am an Amazon Associate and I am someone who has been greatly helped by this book. If you relate to Melanie's story above then I think you'll benefit from reading it. The link above is an Amazon Associate link.
 ---
